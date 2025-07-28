@@ -1,0 +1,46 @@
+{
+  "generated_at": "2025-07-28T15:52:03.286Z",
+  "total_images": 5,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-vseprostavby.png",
+      "file_name": "logo-vseprostavby.png",
+      "description": "The company logo featuring a green outline of a house.",
+      "suggested_usage": "Use as a main logo in the header and footer.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/project-tanvald-finished-house.jpg",
+      "file_name": "project-tanvald-finished-house.jpg",
+      "description": "A newly completed or renovated house with a dark roof and white facade, situated in a green, wooded area.",
+      "suggested_usage": "Use in project gallery or as a background for sections about completed projects.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-rdpo-modern-house.jpg",
+      "file_name": "project-rdpo-modern-house.jpg",
+      "description": "A modern, newly renovated house with a dark gray tiled roof and light-colored facade, with two cars parked on the street in front.",
+      "suggested_usage": "Use in project gallery or 'our work' sections.",
+      "size_bytes": 558411
+    },
+    {
+      "original_url": "http://vseprostavby.4fan.cz/wp-content/uploads/2020/12/ThermoSAN.png",
+      "file_path": "public/images/product-thermosan-packaging.png",
+      "file_name": "product-thermosan-packaging.png",
+      "description": "A detailed layout of the packaging design for 'ThermoSAN' thermal insulation and sanitation plaster, showing product information and dimensions.",
+      "suggested_usage": "Use on a page dedicated to product offerings or technical specifications.",
+      "size_bytes": 597382
+    },
+    {
+      "original_url": "http://vseprostavby.4fan.cz/wp-content/uploads/2020/12/ThermoIN.png",
+      "file_path": "public/images/product-thermoin-packaging.png",
+      "file_name": "product-thermoin-packaging.png",
+      "description": "A detailed layout of the packaging design for 'ThermoIN' stucco plaster, displaying product information and dimensions.",
+      "suggested_usage": "Use on a page dedicated to product offerings or technical specifications.",
+      "size_bytes": 415494
+    }
+  ]
+}
